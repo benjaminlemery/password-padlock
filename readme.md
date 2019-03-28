@@ -9,9 +9,5 @@ Password Padlock is an offline text based password manager. Password Padlock all
 
 This software is released under the GNU General Public License v3.0 see [License.md](https://github.com/benwlcp/password-padlock/blob/master/LICENSE) for more information. 
 
-# How to install 
-
-# How to use 
-
 
 
