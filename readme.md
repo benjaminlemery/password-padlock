@@ -10,7 +10,7 @@ Credentials are encrypted using a SHA-256 hash. Unique salt values are created f
 ​
 # Supported Platforms
 
-# Password Padlock can be used on both Linux and  Windows.
+Password Padlock can be used on both Linux and  Windows.
 ​
 # Disclaimer
 
