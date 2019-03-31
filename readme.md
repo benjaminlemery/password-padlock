@@ -18,4 +18,4 @@ This software very likely has bugs some of which may impact the security of your
 
 # License
 
-This software is released under the GNU General Public License v3.0 see License.md(https://github.com/benwlcp/password-padlock/blob/master/LICENSE)  for more information.
+This software is released under the GNU General Public License v3.0 see [License.md](https://github.com/benwlcp/password-padlock/blob/master/LICENSE) for more information.
